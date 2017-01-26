@@ -15,7 +15,7 @@ Table of Contents
   1. Programming
      - [Python](#Python)
      - [PHP](#PHP)
-      
+     - [JavaScript](#javascript)
   2. Editors
      - [Vim](#vim)
       
@@ -26,7 +26,7 @@ Table of Contents
      - [Linux](./linux/test)
 
   5. Useful chanels and Tutorials sites (Searching for materials)
-     - [Linux Tutorials](#linux tutorials)
+     - [Linux Tutorials](#linux_tutorials)
      - [Youtube Channels](#youtube)
   6. Security
      - [Security](#security)
@@ -35,9 +35,7 @@ Table of Contents
       - [Useful](#useful)
   
   8. Cheat sheets 
-     - [Netowrking] (#networking)
+     - [Cheat sheets](#sheets)
   
-  9. Motivation 
-     * [Netowrking] (#networking)
      
  
