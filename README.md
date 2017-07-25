@@ -36,7 +36,7 @@ Table of Contents
       - [Useful](./Useful)
   
   8. Cheat sheets 
-     - [Cheat sheets](#sheets)
+     - [Cheat sheets](./sheets)
   
      
  
